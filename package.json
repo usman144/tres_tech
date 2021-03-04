@@ -1,0 +1,14 @@
+{
+  "name": "tres_-technologies",
+  "version": "1.0.0",
+  "description": "Tres Technologies automateion envirment ",
+  "main": "index.js",
+  "scripts": {
+    "test": "tres_12"
+  },
+  "author": "tres",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^6.6.0"
+  }
+}
