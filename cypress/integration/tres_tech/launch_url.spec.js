@@ -29,6 +29,7 @@ describe('Shoudl be launch tres technologyes url', function()
         // cy.contains('Branch 2').click({force: true})
         // cy.get(':nth-child(6) > .mat-form-field > .mat-form-field-wrapper > .mat-form-field-flex > .mat-form-field-infix')
         // .type('text')
+        cy.wait(1000)
 
 
 
